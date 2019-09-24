@@ -8,6 +8,6 @@ https://edu.cnblogs.com/campus/buaa/2019BUAASummerSETraining/homework/3407
 
 ## 过程记录
 
-2019/09/23 16:30 完成北京地铁信息爬取
+2019/09/23 完成北京地铁信息爬取 Json格式文本 subway.txt
 
-2019/09/23 16:48 完成Json格式文本 subway.txt
+2019/09/24 基本完成
