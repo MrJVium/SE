@@ -4,7 +4,7 @@ https://edu.cnblogs.com/campus/buaa/2019BUAASummerSETraining/homework/3407
 ## 过程中产生博客列表
 
 [个人项目——设计文档](https://www.cnblogs.com/vium520/p/11552127.html)
-
+[个人项目——总结](https://www.cnblogs.com/vium520/p/11646638.html)
 
 ## 过程记录
 
